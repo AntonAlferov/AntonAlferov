@@ -1,13 +1,13 @@
 <svg viewBox="0 0 3381 1605" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
     .background {
-      fill: #ffffff; /* Белый фон */
+      fill: white;
     }
     .letters {
-      fill: #000000;   /* Черная заливка букв */
+      fill: black;
     }
     .letters2 {
-      stroke: #ffffff;
+      stroke: white;
     }
     
     @media (prefers-color-scheme: dark) {
@@ -15,10 +15,10 @@
         fill: #0d1117; /* Фирменный темный цвет фона GitHub (или можно #000000) */
       }
       .letters {
-        fill: #ffffff;
+        fill: white;
       }
       .letters2 {
-        stroke: #0d1117;   /* Белые буквы */
+        stroke: #0d1117;
       }
     }
 
