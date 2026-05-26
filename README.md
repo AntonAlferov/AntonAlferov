@@ -5,7 +5,11 @@
 <img src="profile_poem.svg" width="100%" alt="Анимация текста">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_theme_startup_title.png">
-  <source media="(prefers-color-scheme: light)" srcset="gr.png">
-  <img alt="Стихи" src="gr.png">
+  <source media="(prefers-color-scheme: light)" srcset="light_theme_startup_title.png">
+  <img alt="Заголовок Стартапы" src="light_theme_startup_title.png">
 </picture>
-<img src="nav.png" width="100%" alt="Анимация текста">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_theme_skills_title.png">
+  <source media="(prefers-color-scheme: light)" srcset="light_theme_skills_title.png">
+  <img alt="Заголовок Навыки" src="light_theme_skills_title.png">
+</picture>
