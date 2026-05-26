@@ -3,3 +3,4 @@
 </div>
 <br>
 <img src="profile_poem.svg" width="100%" alt="Анимация текста">
+<img src="startap.svg" width="100%" alt="Анимация текста">
