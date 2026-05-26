@@ -4,4 +4,4 @@
 <br>
 <img src="profile_poem.svg" width="100%" alt="Анимация текста">
 <img src="gr.png" width="100%" alt="Анимация текста">
-<img src="nav.png" width="100%" alt="Анимация текста">
+<img src="nav2.png" width="100%" alt="Анимация текста">
