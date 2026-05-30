@@ -14,14 +14,11 @@
   <img alt="Заголовок Навыки" src="light_theme_skills_title.png">
 </picture>
 
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="Sberb_analysis.png" align='right' width='50%'>
   <source media="(prefers-color-scheme: light)" srcset="Sberb_analysis_w2.png" align='right' width='50%'>
   <img alt="График транзакций сбера" src="Sberb_analysis_w2.png" align='right' width='50%'>
-</picture>
-
+  
 ### Исследовательский анализ данных (EDA)
 Моя отчасти творческая работа по анализу данных на основе визуализации с использованием matplotlib и
 seaborn. Сами данные взяты с открытых источников. Помимо небольших тренирочных анализов.
