@@ -14,7 +14,7 @@
   <img alt="Заголовок Навыки" src="light_theme_skills_title.png">
 </picture>
 
-<img align='right' src='histogram.png' width='50%'>
+<img align='right' src='Sberb_analysis.png' width='50%'>
 
 ### Исследовательский анализ данных (EDA)
 Моя отчасти творческая работа по анализу данных на основе визуализации с использованием matplotlib и
