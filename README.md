@@ -19,7 +19,7 @@
   <source media="(prefers-color-scheme: light)" srcset="Sberb_analysis_w2.png" align='right' width='50%'>
   <img alt="График транзакций сбера" src="Sberb_analysis_w2.png" align='right' width='50%'>
   
-### Исследовательский анализ данных (EDA)
+### [Исследовательский анализ данных (EDA)](https://github.com/AntonAlferov/visualization)
 Моя отчасти творческая работа по анализу данных на основе визуализации с использованием matplotlib и
 seaborn. Сами данные взяты с открытых источников. Помимо небольших тренирочных анализов.
 В данный репозиторий включено собственное решение соревнования по
