@@ -44,7 +44,7 @@ seaborn. Сами данные взяты с открытых источнико
 
 <br clear="right">
 <br><br><br>
-<img alt="Tanuki prototype" src="food_main.png?" align='left' width='40%'>
+<img alt="Tanuki prototype" src="food_main.png" align='left' width='40%'>
   
 ### [Веб-прототип сайта "Тануки" на Django]()
 
