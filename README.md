@@ -43,7 +43,7 @@ seaborn. Сами данные взяты с открытых источнико
 
 <br clear="right">
 <br><br><br>
-<img alt="Tanuki prototype" src="startup_parking.png" align='left' width='40%'>
+<img alt="Tanuki prototype" src="food_main.png" align='left' width='40%'>
   
 ### [Веб-прототип сайта "Тануки" на Django](https://github.com/AntonAlferov/visualization)
 &nbsp;&nbsp; Финальным проектом "Яндекс практикума" было создание сайта ресторана с функцией онлайн-заказа.
