@@ -45,11 +45,11 @@ seaborn. Сами данные взяты с открытых источнико
 
 <br clear="right">
 <br><br><br>
-<img alt="Tanuki prototype" src="food_main.png" align='left' width='40%'>
+<img alt="Taniuki prototype" src="food_main.png" align='left' width='40%'>
   
-### [Веб-прототип сайта "Тануки" на Django](https://github.com/AntonAlferov/Tanuki-prototype-django-react)
+### [Веб-прототип сайта "Таньюки" на Django](https://github.com/AntonAlferov/Tanuki-prototype-django-react)
 &nbsp;&nbsp; Финальным проектом "Яндекс практикума" было создание сайта ресторана с функцией онлайн-заказа.<br>
-&nbsp;&nbsp; Как вы правильно поняли я решил сделать аналог сайта "Тануки".<br>
+Как вы правильно поняли я решил сделать аналог сайта "Таньюки".<br>
 &nbsp;&nbsp; Фронтенд реализован на JavaScript, бекенд - на Django.<br>
 &nbsp;&nbsp; База данных - PostgreSQL.<br>
 &nbsp;&nbsp; Приложение контейнеризировано с помощью Docker и подготовлено к быстрому развертыванию.
