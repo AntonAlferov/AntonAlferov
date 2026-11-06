@@ -41,9 +41,10 @@ seaborn. Сами данные взяты с открытых источнико
 В данный репозиторий включено собственное решение соревнования по
 анализу банковских транзакций от Сбера.
 
+
 <br clear="right">
 <br><br><br>
-<img alt="Tanuki prototype" src="food_main.png" align='left' width='40%'>
+<img alt="Tanuki prototype" src="prototype.png" align='left' width='40%'>
   
 ### [Веб-прототип сайта "Тануки" на Django](https://github.com/AntonAlferov/Tanuki-prototype-django-react)
 &nbsp;&nbsp; Финальным проектом "Яндекс практикума" было создание сайта ресторана с функцией онлайн-заказа.<br>
